@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 预判
 我是你爸爸
-=======
 预测
 贾航标
 你好Git
@@ -12,3 +10,4 @@ yanshimeiyouxiaojj
 我是你爸爸
 lalalallalal
 lululululu
+shibushibiaoani
